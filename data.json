@@ -1,6 +1,4 @@
-{
-
-"tips":[{
+[{
     "id": 1,
     "difficulty": "easy",
     "description": "Cut line",
@@ -28,7 +26,7 @@
     "id": 4,
     "difficulty": "easy",
     "description": "Go to the begining of file",
-    "mac": "⌘ ↑ ",
+    "mac": "⌘ ↑",
     "windows": "Ctrl + Home",
     "timesShown": 0    
     },
@@ -41,4 +39,3 @@
     "timesShown": 0    
     }
 ]
-}
