@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "difficulty": "easy",
+    "description": "Cut line",
+    "mac": "⌘ X",
+    "windows": "Ctrl + X",
+    "timesShown": 0    
+    },
+{
+    "id": 2,
+    "difficulty": "easy",
+    "description": "Copy line",  
+    "mac": "⌘ C",
+    "windows": "",
+    "timesShown": 0    
+},
+{
+    "id": 3,
+    "difficulty": "easy",
+    "description": "Go to beginning/end of line",
+    "mac": "Home / End",
+    "windows": "Home / End",
+    "timesShown": 0    
+},
+{
+    "id": 4,
+    "difficulty": "easy",
+    "description": "Go to the begining of file",
+    "mac": "⌘ ↑",
+    "windows": "Ctrl + Home",
+    "timesShown": 0    
+    },
+{
+    "id": 5,
+    "difficulty": "easy",
+    "description": "Go to the end of file",
+    "mac": "⌘ ↓",
+    "windows": "Ctrl + End",
+    "timesShown": 0    
+    }
+]
